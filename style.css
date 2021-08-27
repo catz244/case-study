@@ -1,0 +1,52 @@
+#header_div{
+    background-color: white;
+    color:purple;
+    font-family: 'Palette Mosaic', cursive;
+}
+
+#header_div img{
+    width:100px;
+    margin-top: 0px;
+}
+
+.main_div{
+    background-color:silver;
+    border: 2px black solid;
+    padding: 20px;
+    margin-right: 40px;
+}
+
+.copy_right_footer{
+    text-align: center;
+    width: 100%;
+    line-height: 20px;
+    bottom : 0px;
+    padding-bottom: 5px;
+    margin-bottom : 0px;
+    position: fixed;
+    background-color: white;
+}
+
+.footer_div{
+    background-color: silver;
+    margin-bottom: 20px;
+}
+
+.footer_div h4{
+    background-color: linen;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: linen;
+}
+
+#sub_div{
+    background: white;
+    width:350px;
+    padding: 10px;
+    box-shadow: 5px 5px 18px white;
+}
+
+body{
+    background-color:darksalmon;
+}
+
